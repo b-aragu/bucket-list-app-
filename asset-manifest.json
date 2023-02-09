@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bucket-list-app/static/css/main.559f1293.css",
-    "main.js": "/bucket-list-app/static/js/main.6554841b.js",
-    "static/js/787.cde89547.chunk.js": "/bucket-list-app/static/js/787.cde89547.chunk.js",
-    "static/media/couple.jpg": "/bucket-list-app/static/media/couple.4b0f17f057a4dd702bf9.jpg",
-    "index.html": "/bucket-list-app/index.html",
-    "main.559f1293.css.map": "/bucket-list-app/static/css/main.559f1293.css.map",
-    "main.6554841b.js.map": "/bucket-list-app/static/js/main.6554841b.js.map",
-    "787.cde89547.chunk.js.map": "/bucket-list-app/static/js/787.cde89547.chunk.js.map"
+    "main.css": "/bucket-list-app-/static/css/main.559f1293.css",
+    "main.js": "/bucket-list-app-/static/js/main.ca2363e0.js",
+    "static/js/787.cde89547.chunk.js": "/bucket-list-app-/static/js/787.cde89547.chunk.js",
+    "static/media/couple.jpg": "/bucket-list-app-/static/media/couple.4b0f17f057a4dd702bf9.jpg",
+    "index.html": "/bucket-list-app-/index.html",
+    "main.559f1293.css.map": "/bucket-list-app-/static/css/main.559f1293.css.map",
+    "main.ca2363e0.js.map": "/bucket-list-app-/static/js/main.ca2363e0.js.map",
+    "787.cde89547.chunk.js.map": "/bucket-list-app-/static/js/787.cde89547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.559f1293.css",
-    "static/js/main.6554841b.js"
+    "static/js/main.ca2363e0.js"
   ]
 }
